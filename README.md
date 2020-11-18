@@ -28,14 +28,7 @@ It is crucial to note that the number of basis functions required to approximate
 ![](https://lh3.googleusercontent.com/p2bv8H10IBMI2GVJg6Zv3szTKzFwzQThSyTYBfUZhHP6iSjQASC-EvOVAN2N9TLorxLYoKx8y-3P4luhkpeUIhQ9gO0Y2DURPha8yufDLnOjyYxcKLlUnchoCOQ1X3TqNArtJG2nBssUQ8cdFA)  
  ***Figure 1**: Archimedes' Quadrature in single dimension [2].*
 
-
-
-
-
-![](https://docs.google.com/drawings/u/0/d/se36G5wRJMLfzQA2BgehpHw/image?w=321&h=57&rev=1&ac=1&parent=1XoDgtvooup4YO7NCbOo7v8aXokZfgo1M-TH2KoypjnU)
-
-Before moving on to Sparse Grids, it is important to recognize that the weight of importance of each higher level basis function in the process of approximation decays. The higher one goes up Archimedes’ hierarchies, the more the speed of improvement of accuracy will decrease. This observation forms the foundation of the Sparse Grid approach.![](https://lh6.googleusercontent.com/gAGgW3V5rAxEgrmyceSR8Hbb9O3ykbvGw_3JwnQwYWbvnegCkfbYiZJa0k6_PgPX88ZLGAiGt1h_ft2-7VmVvNae6kkLQ3KHNCgirFocl76xpB6WxLhy6myuQ9DFpD7l-L98y2tXLyJMjy0lFQ)
-***Figure 2**: Tensor product of two single dimensional basis functions [3].* 
+Before moving on to Sparse Grids, it is important to recognize that the weight of importance of each higher level basis function in the process of approximation decays. The higher one goes up Archimedes’ hierarchies, the more the speed of improvement of accuracy will decrease. This observation forms the foundation of the Sparse Grid approach.![](https://lh6.googleusercontent.com/gAGgW3V5rAxEgrmyceSR8Hbb9O3ykbvGw_3JwnQwYWbvnegCkfbYiZJa0k6_PgPX88ZLGAiGt1h_ft2-7VmVvNae6kkLQ3KHNCgirFocl76xpB6WxLhy6myuQ9DFpD7l-L98y2tXLyJMjy0lFQ)***Figure 2**: Tensor product of two single dimensional basis functions [3].* 
 
 ### Sparse Grids
     
